@@ -3,7 +3,28 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages: []
+packages:
+- completed:
+    hackage: gi-webkit2-4.0.26@sha256:813cd65e95fdea83fe44043c06f8330f7f25e6492f473df9a1c7db43ed1f01b0,11288
+    pantry-tree:
+      size: 366
+      sha256: d48d35809ac0cc87d0ffb1b54265269fdf30c4445d9b989d2f7c90df5a10bb21
+  original:
+    hackage: gi-webkit2-4.0.26@sha256:813cd65e95fdea83fe44043c06f8330f7f25e6492f473df9a1c7db43ed1f01b0,11288
+- completed:
+    hackage: gi-javascriptcore-4.0.22@sha256:525e7087beb8a57d6bf42d37239144b59e8a830bed384ff3939762445826a853,4028
+    pantry-tree:
+      size: 312
+      sha256: bbfdb1e838ba644765c3064e4573bd61bf6bfe4b77911b622bf96a57165acda9
+  original:
+    hackage: gi-javascriptcore-4.0.22@sha256:525e7087beb8a57d6bf42d37239144b59e8a830bed384ff3939762445826a853,4028
+- completed:
+    hackage: gi-soup-2.4.23@sha256:1487ea6a8e4d88f6e998ca23dc466503fe55dd19b0f35da0040bec960ac2877e,8957
+    pantry-tree:
+      size: 358
+      sha256: ea14c726bd84eee0803b9adbdbd94d4d497a5cbd88a0afd3f75fe46026a7a3d7
+  original:
+    hackage: gi-soup-2.4.23@sha256:1487ea6a8e4d88f6e998ca23dc466503fe55dd19b0f35da0040bec960ac2877e,8957
 snapshots:
 - completed:
     size: 563100
