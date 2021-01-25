@@ -8,3 +8,5 @@ node_modules
 output
 .purs-repl
 .spago/
+.cache/
+dist/
